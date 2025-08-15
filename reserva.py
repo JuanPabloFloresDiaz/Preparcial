@@ -1,4 +1,3 @@
-# reserva.py
 # Métodos para gestión de reservas de hotel
 
 # Función para validar el tipo de habitación
