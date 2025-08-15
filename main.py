@@ -1,9 +1,6 @@
 # Sistema de Reservas de Hotel
 # Utiliza Teclado y Validaciones para entrada segura
 
-import sys
-import os
-sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 from Teclado import Teclado
 import reserva
 
